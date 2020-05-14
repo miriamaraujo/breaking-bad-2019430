@@ -1,7 +1,8 @@
 {
   "name": "braking-bad-2019430",
   "integrations": {
-    "cordova": {}
+    "cordova": {},
+    "capacitor": {}
   },
   "type": "angular"
 }
